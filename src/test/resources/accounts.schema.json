@@ -18,7 +18,7 @@
       },
       "name": {
         "type": "string",
-        "minLength": 1
+        "minLength": 0
       },
       "number": {
         "type": "string",
@@ -26,7 +26,7 @@
       },
       "balance": {
         "type": "integer",
-        "default": 0
+        "default":0
       },
       "currency": {
         "type": "string"
