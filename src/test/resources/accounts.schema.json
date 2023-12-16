@@ -17,7 +17,7 @@
         "type": "integer"
       },
       "name": {
-        "type": "string",
+        "type": "integer",
         "minLength": 0
       },
       "number": {
